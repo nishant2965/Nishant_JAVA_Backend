@@ -20,6 +20,7 @@ public static void main(String[] aggs){
     System.out.println(getName());
 
     System.out.println(setName("Agrawal"));
+    System.out.println(Name);
     
 
     
