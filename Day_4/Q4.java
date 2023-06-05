@@ -1,7 +1,3 @@
-package Day_4;
-
-
-
 
 final class Q4 {
 
