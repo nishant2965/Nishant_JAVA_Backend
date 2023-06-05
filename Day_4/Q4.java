@@ -1,7 +1,7 @@
 
 final class Q4 {
 
-    protected final int k = 10;
+    final int k = 10;
 
     final void finalValue(){
         System.out.println(k);
