@@ -23,7 +23,5 @@ public class FizzBuzzNoMod {
             }
             System.out.print(" ");
         }
-
     }
-    
 }
