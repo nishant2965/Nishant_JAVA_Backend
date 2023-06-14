@@ -15,7 +15,6 @@ public class FirstThread extends Thread{
             f.join();
         } catch (Exception e) {
             e.printStackTrace();
-            // TODO: handle exception
         }
     }
 }
