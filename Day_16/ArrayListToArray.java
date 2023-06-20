@@ -17,7 +17,17 @@ public class ArrayListToArray {
             arr[i] = arraylist.get(i);
             System.out.println(arr[i]);
         }
+        
 
+        System.out.println("trying array list to asrrya");
+
+        String[] arr1 = new String[arraylist.size()];
+
+        arr1 = arraylist.toArray(arr1);
+
+        for(int i = 0; i<arraylist.size(); i++){
+            System.out.println(arr1[i]);
+        }
         
     }
     
