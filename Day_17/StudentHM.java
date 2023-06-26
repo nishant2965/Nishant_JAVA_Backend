@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class MaiStudentHM{
+public class StudentHM{
     public static void main(String[] args) {
         class Student {
             private String firstName;
