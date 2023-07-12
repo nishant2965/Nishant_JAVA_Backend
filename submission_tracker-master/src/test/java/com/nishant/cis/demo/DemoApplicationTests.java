@@ -1,4 +1,4 @@
-package com.gaurav.cis.demo;
+package com.nishant.cis.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
